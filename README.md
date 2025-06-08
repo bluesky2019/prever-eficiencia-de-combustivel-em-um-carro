@@ -18,6 +18,8 @@ Preparei os dados: Os dados de recursos (peso em 1.000 km) e o rótulo (km por g
 Criar e treinar o modelo: Criei uma instância do modelo LinearRegression e usei os dados para treiná-lo.
 Fazer previsões: Depois de treinar o modelo,  pode usá-lo para prever a eficiência de combustível para novos pesos de carro.
 
+*** sugestão: Utilizei o google colab para criar e rodar esse arquivo. 
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://medium.com/@gilnei809/gilnei-azambuja-borges-analista-de-dados-e-administrador-de-banco-de-dados-8774175b0e46)
